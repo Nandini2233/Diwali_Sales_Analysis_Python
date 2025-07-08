@@ -1,11 +1,5 @@
 # Diwali_Sales_Analysis_Python
-📊 Exploratory Data Analysis (EDA) project on Diwali sales data using the Python along with key data analysis libraries including Pandas, Seaborn, and Matplotlib. The project delivers customer behavior insights, segment-wise trends, and business-driven recommendations through data cleaning and visualization.
-
----
-
-## 📖 Executive Summary
-
-This project presents an end-to-end **Exploratory Data Analysis (EDA)** on Diwali Sales data with the goal of uncovering **actionable business insights** for targeted marketing and strategic decision-making. Using Python and core data analysis libraries, the dataset is analyzed to identify **key customer segments**, **spending behaviors**, and **state-wise revenue distribution** during the Diwali festival season. This analysis supports real-world use cases like campaign optimization and customer profiling.
+📊 This project presents an end-to-end **Exploratory Data Analysis (EDA)** on Diwali Sales data with the goal of uncovering **actionable business insights** for targeted marketing and strategic decision-making. Using Python and core data analysis libraries, the dataset is analyzed to identify **key customer segments**, **spending behaviors**, and **state-wise revenue distribution** during the Diwali festival season. This analysis supports real-world use cases like campaign optimization and customer profiling.
 
 ---
 
