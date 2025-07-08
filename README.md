@@ -87,10 +87,4 @@ Simulating the role of a junior data analyst at a retail company using Diwali sa
 
 ---
 
-## 📬 Contact
 
-**👤 Author:** \Rathod Nandini Hasmukhbhai
-**🔗 LinkedIn:** \https://www.linkedin.com/in/nandini-rathod-951114248/
-**📧 Email:** nandinirathod909@gmail.com
-
----
