@@ -18,7 +18,6 @@
   * [5️⃣ Occupation vs Product Categories](#5-occupation-vs-product-categories)
 * [📈 Key Insights](#-key-insights)
 * [🔬 Conclusion & Recommendations](#-conclusion--recommendations)
-* [📁 Project Structure](#-project-structure)
 * [📬 Contact](#-contact)
 
 ---
