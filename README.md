@@ -94,10 +94,3 @@ Simulating the role of a junior data analyst at a retail company using Diwali sa
 **📧 Email:** nandinirathod909@gmail.com
 
 ---
-
-> “In God we trust. All others must bring data.”
-> — *W. Edwards Deming*
-
----
-
-✨ *Let the data speak.*
