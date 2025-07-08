@@ -3,25 +3,6 @@
 
 ---
 
-## 📊 Table of Contents
-
-* [🚀 Business Objective](#-business-objective)
-* [🛠️ Tools and Technologies](#️-tools-and-technologies)
-* [📂 Dataset Overview](#-dataset-overview)
-* [🧹 Data Cleaning and Preprocessing](#-data-cleaning-and-preprocessing)
-* [📊 Exploratory Data Analysis](#-exploratory-data-analysis)
-
-  * [1️⃣ Gender-based Spending](#1-gender-based-spending)
-  * [2️⃣ Age Group Contribution](#2-age-group-contribution)
-  * [3️⃣ State-wise Performance](#3-state-wise-performance)
-  * [4️⃣ Marital Status Influence](#4-marital-status-influence)
-  * [5️⃣ Occupation vs Product Categories](#5-occupation-vs-product-categories)
-* [📈 Key Insights](#-key-insights)
-* [🔬 Conclusion & Recommendations](#-conclusion--recommendations)
-* [📬 Contact](#-contact)
-
----
-
 ## 🚀 Business Objective
 
 Simulating the role of a junior data analyst at a retail company using Diwali sales data to:
