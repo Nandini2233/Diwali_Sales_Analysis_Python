@@ -87,4 +87,21 @@ Simulating the role of a junior data analyst at a retail company using Diwali sa
 
 ---
 
+---
+
+## 🏷️ Skills and Tags
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/data--analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jupyter--notebook-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pandas-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/numpy-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/matplotlib-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/seaborn-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/data--visualization-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/diwali--sales--analysis-blue?style=for-the-badge" />
+</div>
+
 
